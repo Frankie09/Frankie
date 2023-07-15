@@ -72,10 +72,6 @@
       <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankie09&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
-<details>
-  <summary><b>Github Streak</b></summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuliusius1&" alt="yuliusius1" /></p>
-</details>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frankie09&bg_color=292929&color=ffffff&line=ffffff&point=ffff46&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
