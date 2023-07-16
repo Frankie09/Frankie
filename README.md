@@ -13,7 +13,6 @@
 - ⚙️ I focus on web dev and mobile dev. </br>
 
 <h3>Languages and Tools</h3>
-<br>
 <h3>Front End</h3>
 <br>
 <p align="left">
