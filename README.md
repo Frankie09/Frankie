@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I'm+Frankie,+a+Software+Engineer;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&lines=Welcome+to+My+Github!;I'm+Frankie;">
 </h1>
 
 <h3 align="center">About Me</h3>
 
 <p align="center">
-  Hi there! I'm Frankie, a passionate Software Engineer with expertise in web and mobile development. I love creating amazing applications that make a positive impact. Let's connect and collaborate on exciting projects!
+  Hi there! I'm Frankie, a passionate Software Engineer with expertise in web and mobile development.
 </p>
 <br>
 
