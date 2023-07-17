@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I'm+Frankie,+a+Software+Engineer;">
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/lTRuG1F4VZ2dVylH9V/giphy.gif" alt="Animated Gif" width="500" height="300" />
-</p>
-
 <h3 align="center">Software Engineer</h3>
 <br>
 
