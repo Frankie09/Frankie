@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&lines=Welcome+to+My+Profile!;I'm+Frankie,+a+Software+Engineer;">
 </h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  Hi there! I'm Frankie, a passionate Software Engineer with expertise in web and mobile development. I love creating amazing applications that make a positive impact. Let's connect and collaborate on exciting projects!
+</p>
 <br>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFrankie09&label=Visitor&labelColor=%23d9e3f0&countColor=%23555555)
