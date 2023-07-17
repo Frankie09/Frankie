@@ -11,10 +11,9 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFrankie09&label=Visitor&labelColor=%23d9e3f0&countColor=%23555555)
 
-### About Me 🚀
-
-- 🏫 I’m Fresh Graduated Student of Informatics Engineering at Satya Wacana Christian University </br>
-- ⚙️ I focus on web dev and mobile dev. </br>
+### About Me 
+🏫 I’m Fresh Graduated Student of Informatics Engineering at Satya Wacana Christian University </br>
+⚙️ I focus on web dev and mobile dev. </br>
 
 <h3>Languages and Tools</h3>
 <h3>Front End</h3>
