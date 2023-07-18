@@ -9,7 +9,7 @@
 </p>
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFrankie09&label=Visitor&labelColor=%23d9e3f0&countColor=%23555555)
+
 
 ### About Me 
 🏫 I’m Fresh Graduated Student of Informatics Engineering at Satya Wacana Christian University </br>
@@ -76,7 +76,7 @@
 </details>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frankie09&bg_color=292929&color=ffffff&line=ffffff&point=ffff46&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFrankie09&label=Visitor&labelColor=%23d9e3f0&countColor=%23555555)
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/frankie-204361250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natyulius" height="30" width="40" /></a>
